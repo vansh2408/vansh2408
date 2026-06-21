@@ -64,6 +64,15 @@ I build production-grade web applications across the stack — from React/Next.j
 
 <hr/>
 
+<h3> 🏆 Open Source Contributions</h3>
+Merged pull requests into public repositories as part of global open-source contribution (<b>Hacktoberfest 2025</b>).
+
+<p>&nbsp;</p>
+
+[![An image of @vansh2408's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vansh2408)](https://holopin.io)
+
+<hr/>
+
 <h3>📊 GitHub Stats</h3>
 
 <p align="left">
